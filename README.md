@@ -1,5 +1,5 @@
 ---
 permalink: /404.html
 ---
-# dongliangX.github.io
-my pages
+# linux pages
+my notebook for linux
